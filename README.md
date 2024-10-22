@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am passionate about building impactful web appli
 ---
 ### 🌱 What I’m Currently Learning
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE1Zzg4OHd6b3ZxcGl2d2s2NjV4cDNrOWdhN2N3ZTgwaWQ4ZmIyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADyQEh474eu0o/giphy.gif"  />
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE1Zzg4OHd6b3ZxcGl2d2s2NjV4cDNrOWdhN2N3ZTgwaWQ4ZmIyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADyQEh474eu0o/giphy.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
