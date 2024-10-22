@@ -2,16 +2,29 @@
 
 ###
 
+**MERN Stack Developer | Full-Stack Web Developer | Tech Enthusiast.**
+
+Welcome to my GitHub profile! I am passionate about building impactful web applications using modern technologies. My expertise lies in the MERN stack (MongoDB, Express, React, Node.js), and I’m currently expanding my knowledge in TypeScript, Next.js, and Mongoose to work on professional-level real-world projects.
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saiheinthuyasoe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saiheinthuyasoe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
+### 🚀 My Current Tech Stack
+
+- **Languages**: JavaScript, TypeScript, Go, Python, Java
+- **Front-End**: React, Next.js, Vite, Tailwind CSS, React Bootstrap
+- **Back-End**: Node.js, Express.js, Mongoose, Spring Boot
+- **Databases**: MongoDB, Firebase
+- **Tools & Platforms**: Git, Vercel, Docker, Postman, ESLint, Prettier, MongoDB
+
+---
+### 🌱 What I’m Currently Learning
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE1Zzg4OHd6b3ZxcGl2d2s2NjV4cDNrOWdhN2N3ZTgwaWQ4ZmIyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADyQEh474eu0o/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -49,7 +62,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-###
+---
+### 📫 How to reach me
 
 <div align="left">
   <a href="mailto:yourusername@gmail.com" target="_blank">
@@ -72,7 +86,14 @@
   </a>
 </div>
 
-###
+---
+### 👨‍💻 Professional Goals
+
+- Become a fully proficient **MERN stack developer** using TypeScript and **Full stack developer** using Java Spring Boot.
+- Contribute to open-source projects.
+- Continue building impactful and user-friendly applications.
+
+---
 
 <br clear="both">
 
