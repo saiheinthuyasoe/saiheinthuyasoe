@@ -4,7 +4,7 @@
 
 **MERN Stack Developer | Full-Stack Web Developer | Tech Enthusiast.**
 
-Welcome to my GitHub profile! I am passionate about building impactful web applications using modern technologies. My expertise lies in the MERN stack (MongoDB, Express, React, Node.js), and I’m currently expanding my knowledge in TypeScript, Next.js, and Mongoose to work on professional-level real-world projects.
+Welcome to my GitHub profile! I am passionate about building impactful web applications using modern technologies. My expertise lies in the MERN stack (MongoDB, Express, React, Node.js), and I’m currently expanding my knowledge in Mysql, Next.js, and Spring Boot to work on professional-level real-world projects.
 
 
 <div align="center">
