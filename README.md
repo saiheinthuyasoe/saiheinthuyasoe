@@ -1,11 +1,10 @@
-<h2 align="left">Hi 👋! My name is Sai Hein Thu Ya Soe</h2>
+<h2 align="left">Hi! My name is Sai Hein Thu Ya Soe</h2>
 
 ###
 
-**MERN Stack Developer | Full-Stack Web Developer | Tech Enthusiast.**
+**Full-Stack Web Developer | Tech Enthusiast.**
 
-Welcome to my GitHub profile! I am passionate about building impactful web applications using modern technologies. My expertise lies in the MERN stack (MongoDB, Express, React, Node.js), and I’m currently expanding my knowledge in Mysql, Next.js, and Spring Boot to work on professional-level real-world projects.
-
+Welcome to my GitHub profile! I am passionate about building impactful web applications using modern technologies. Learned programming, web development, database systems, and data analytics. Goal is to become a web developer or software engineer and continue improving technical skills.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saiheinthuyasoe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -13,16 +12,15 @@ Welcome to my GitHub profile! I am passionate about building impactful web appli
 </div>
 
 ---
-### 🚀 My Current Tech Stack
+### My Current Tech Stack
 
-- **Languages**: JavaScript, TypeScript, Go, Python, Java
-- **Front-End**: React, Next.js, Vite, Tailwind CSS, React Bootstrap
-- **Back-End**: Node.js, Express.js, Mongoose, Spring Boot
-- **Databases**: MongoDB, Firebase
-- **Tools & Platforms**: Git, Vercel, Docker, Postman, ESLint, Prettier, MongoDB
+- **Programming Languages**: Java, Python, Go (Golang), JavaScript
+- **Web Development / Frameworks:**: React, Next.js, Node.js, Express.js
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Data & Productivity Tools**: Microsoft Excel, Google Sheets, Tableau, Power BI
 
 ---
-### 🌱 What I’m Currently Learning
+### What I’m Currently Learning
 
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE1Zzg4OHd6b3ZxcGl2d2s2NjV4cDNrOWdhN2N3ZTgwaWQ4ZmIyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADyQEh474eu0o/giphy.gif"  />
 
@@ -63,7 +61,7 @@ Welcome to my GitHub profile! I am passionate about building impactful web appli
 </div>
 
 ---
-### 📫 How to reach me
+### How to reach me
 
 <div align="left">
   <a href="mailto:yourusername@gmail.com" target="_blank">
@@ -87,9 +85,9 @@ Welcome to my GitHub profile! I am passionate about building impactful web appli
 </div>
 
 ---
-### 👨‍💻 Professional Goals
+### Professional Goals
 
-- Become a fully proficient **MERN stack developer** using TypeScript and **Full stack developer** using Java Spring Boot.
+- Become a **Full stack developer**.
 - Contribute to open-source projects.
 - Continue building impactful and user-friendly applications.
 
