@@ -98,8 +98,3 @@ Welcome to my GitHub profile! I am passionate about building impactful web appli
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/saiheinthuyasoe/count.svg?"  />
-</div>
-
-###
